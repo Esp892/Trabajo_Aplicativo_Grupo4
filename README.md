@@ -1,10 +1,9 @@
-﻿# Trabajo Aplicativo - Grupo 4
+# Trabajo Aplicativo - Grupo 4
 
 ## Proyecto
 
 Generación y análisis de datos económicos mediante Python y R.
 
-## Etapa 2
 
 En esta etapa se generaron datos económicos simulados para cinco departamentos del Perú utilizando Python y NumPy.
 
